@@ -1,0 +1,187 @@
+{
+  "version": "0.2.1",
+  "origin": "Actual KK Studio runtime captures",
+  "processing": "Unmodified PNG copies, no appended card data",
+  "images": [
+    {
+      "file": "theresa-front.png",
+      "model": "德丽莎",
+      "view": "全身正面",
+      "source_capture": "appearance-v021-final-p78aec52e5224n21-neutral-front.png",
+      "sha256": "235c6c55a8db8cfcb1087a2b50708c19626ecdf25b271d94b82d8e69b61759fd",
+      "bytes": 240878,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "theresa-side.png",
+      "model": "德丽莎",
+      "view": "全身侧面",
+      "source_capture": "appearance-v021-final-p78aec52e5224n21-neutral-side.png",
+      "sha256": "f52baa2459418977dfb07abf9b84d334ff7fb1ab82f8ab9b284f76a54985810b",
+      "bytes": 178865,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "theresa-back.png",
+      "model": "德丽莎",
+      "view": "全身背面",
+      "source_capture": "appearance-v021-final-p78aec52e5224n21-neutral-back.png",
+      "sha256": "ce125249c2121a5a45e97bbf46068689c4d80bcf4900d9b52175c73c832f4afc",
+      "bytes": 214622,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "theresa-face.png",
+      "model": "德丽莎",
+      "view": "面部特写",
+      "source_capture": "face-v021-rgba-p78aec52e5224n21-actual-front.png",
+      "sha256": "748f133fd7e87323a18ffb0c74ad90f897c4f67ece6ed3e375f3eb400576a13d",
+      "bytes": 823689,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "theresa-blink.png",
+      "model": "德丽莎",
+      "view": "原生闭眼",
+      "source_capture": "appearance-v021-final-p78aec52e5224n21-closed-front.png",
+      "sha256": "7c82adc3841072b37c55d26a565da895b21ad99cb13b926b8c9c5841b889b464",
+      "bytes": 837883,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "theresa-mouth.png",
+      "model": "德丽莎",
+      "view": "原生张嘴",
+      "source_capture": "appearance-v021-final-p78aec52e5224n21-mouth-front.png",
+      "sha256": "c29bc6f57b09b69298f4577482c963f9cad00ed568c459363b818fc44eb0e392",
+      "bytes": 849447,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "demon-lord-front.png",
+      "model": "女魔王",
+      "view": "全身正面",
+      "source_capture": "appearance-v021-final-p7df4c5d7a70bn21-neutral-front.png",
+      "sha256": "c8c10f068da9739fc67bed1c028138968479b7992efd5689c182dbfc7e753361",
+      "bytes": 293475,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "demon-lord-side.png",
+      "model": "女魔王",
+      "view": "全身侧面",
+      "source_capture": "appearance-v021-final-p7df4c5d7a70bn21-neutral-side.png",
+      "sha256": "9c8f3a3e5eca8de386af738d2fc09dad6010e10a696c75a7bd40dda2500f8507",
+      "bytes": 205247,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "demon-lord-back.png",
+      "model": "女魔王",
+      "view": "全身背面",
+      "source_capture": "appearance-v021-final-p7df4c5d7a70bn21-neutral-back.png",
+      "sha256": "d0102c7cf67bbbd942ef86f6b898ecf06c682466173abf8d5288939972dcc0f2",
+      "bytes": 208624,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "demon-lord-face.png",
+      "model": "女魔王",
+      "view": "面部特写",
+      "source_capture": "face-v021-rgba-p7df4c5d7a70bn21-actual-front.png",
+      "sha256": "08f1a6b23a25e984eb121504884216235603b79e6a5519c4656a3a3195d7edf7",
+      "bytes": 680688,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "demon-lord-blink.png",
+      "model": "女魔王",
+      "view": "原生闭眼",
+      "source_capture": "appearance-v021-final-p7df4c5d7a70bn21-closed-front.png",
+      "sha256": "04fa538b778c78e1ed6237e9867f1ec26a645e68e0ad1bddea608fd7f27b4f4f",
+      "bytes": 740959,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "demon-lord-mouth.png",
+      "model": "女魔王",
+      "view": "原生张嘴",
+      "source_capture": "appearance-v021-final-p7df4c5d7a70bn21-mouth-front.png",
+      "sha256": "61f3e328a332daf90ee0576a5a8298a58aec57284fdbfc7f06140924ff76092f",
+      "bytes": 751468,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "leviathan-front.png",
+      "model": "利维坦",
+      "view": "全身正面",
+      "source_capture": "appearance-v021-final-p2b73712c396fn21-neutral-front.png",
+      "sha256": "b4ed8654c70898789c651b84cb77f2b89c2c878e6a6d2d3a33eef962099b9cd1",
+      "bytes": 191527,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "leviathan-side.png",
+      "model": "利维坦",
+      "view": "全身侧面",
+      "source_capture": "appearance-v021-final-p2b73712c396fn21-neutral-side.png",
+      "sha256": "c52271cbae34f7d1af084e27c588f713123227c4da0e6ab865c3afa783cfe673",
+      "bytes": 143841,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "leviathan-back.png",
+      "model": "利维坦",
+      "view": "全身背面",
+      "source_capture": "appearance-v021-final-p2b73712c396fn21-neutral-back.png",
+      "sha256": "b8286c27b9beaf76393958d11a9c0cb4aece1401f0e166610d9ce7e7c00c4882",
+      "bytes": 163605,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "leviathan-face.png",
+      "model": "利维坦",
+      "view": "面部特写",
+      "source_capture": "face-v021-rgba-p2b73712c396fn21-actual-front.png",
+      "sha256": "56788e30b215268af42f636f8036e1d67daf0da80bfd9ad0fef2ac3eae20085e",
+      "bytes": 881595,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "leviathan-blink.png",
+      "model": "利维坦",
+      "view": "原生闭眼",
+      "source_capture": "appearance-v021-final-p2b73712c396fn21-closed-front.png",
+      "sha256": "5c3e5880cb38b42326765a32d810f7d1a0fb89e318af4eca112f594af384cb74",
+      "bytes": 1009714,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "leviathan-mouth.png",
+      "model": "利维坦",
+      "view": "原生张嘴",
+      "source_capture": "appearance-v021-final-p2b73712c396fn21-mouth-front.png",
+      "sha256": "2c70d4e5f511c32569a96acdcca2053c8f3446d106b83bcd853125c5a04aa379",
+      "bytes": 1025044,
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

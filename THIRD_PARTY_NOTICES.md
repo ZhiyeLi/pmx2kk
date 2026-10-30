@@ -14,3 +14,10 @@ Their respective licenses and terms continue to apply.
 The noncommercial license in the repository root applies only to original
 pmx2KK work. It does not relicense msgpack or any external dependency. Model
 credits and restrictions are listed at the end of README.md and the user guide.
+
+`docs/images/runtime/` contains unmodified screenshots captured in KK Studio
+for the three documented examples. The source model authors and rights holders
+are credited beside the galleries and in the model-source sections. These
+images do not include character-card payloads. The project's code license does
+not grant or replace rights to the depicted third-party characters, models or
+game content; their original terms continue to apply.

@@ -40,6 +40,8 @@ python tools/build_release.py
 
 生成 `dist/pmx2KK-0.2.1.zip`、`dist/pmx2KK-0.2.1-examples-and-docs.zip` 和 SHA256 清单。构建脚本使用明确文件列表、固定 ZIP 时间戳，不扫描用户模型或工作目录。安装包只有 `pmx2kk/` 顶层目录。
 
+只构建本次图文文档补充包可运行 `python tools/build_release.py --illustrated-docs-only`，输出带 `-illustrated` 后缀的文档包和校验文件，不重建插件。图文包按明确清单纳入 18 张实际运行 PNG 截图，并保持原始图片字节。已发布的 v0.2.1 插件包与 Git 标签保持原样。
+
 核心转换需要 Blender 与本机游戏依赖；不能用普通 Python 单元测试代替 KK 验收。`worker.py` 的命令形式为 `blender --background --factory-startup --python-exit-code 1 --python pmx2kk/worker.py -- <recipe.json> inspect|convert|build`，但调用者必须像 UI 一样设置隔离 `BLENDER_USER_CONFIG`、`PYTHONNOUSERSITE=1` 和所有路径。普通用户建议使用 UI。
 
 ## 修改和贡献

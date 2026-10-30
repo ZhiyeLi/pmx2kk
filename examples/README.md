@@ -1,6 +1,6 @@
-# 三个示例：只发布配置，本地复现
+# 三个示例：配置、实际截图与本地复现
 
-每个目录只有 `preset.json`，包含源文件名、SHA256、材质 ID/名称与分类、参数和骨骼覆盖；没有 PMX、贴图、网格、人物卡或游戏资源。请先通过文末的作者入口获取模型及完整贴图目录，阅读使用规约。
+每个模型目录包含 `preset.json`；展示截图集中放在 `docs/images/runtime/`。配置包含源文件名、SHA256、材质 ID/名称与分类、参数和骨骼覆盖；没有 PMX、贴图、网格、人物卡或游戏资源。请先通过文末的作者入口获取模型及完整贴图目录，阅读使用规约。
 
 ## 复现步骤
 
@@ -40,6 +40,50 @@ Leviathan: 2b73712c396fd21abdeab78f5e8fa781cb5acfdb6bb4718251aee4fce6f31048
 ```
 
 其他字段见对应 `preset.json`，辅助脚本直接读取 JSON 校验。所有配置来自已验收的 v0.2.1 本地任务；基础卡、游戏 mod 环境、贴图或模型版本不同可能影响最终外观。
+
+## 实际效果与验收截图
+
+以下 18 张图是 v0.2.1 最终验收中的 KK Studio 实际运行截图，直接复制原 PNG，未修图或重新生成。全身图和表情图来自运行测试，面部特写来自皮肤修复后的检查；不同测试使用的姿态、相机距离不同，不能据此做逐像素前后对比。点击图片可查看原图。
+
+静态图展示外观和指定表情状态；行走、换装、保存重载等功能的测试范围另见[验证记录](../docs/VALIDATION.md)。图片不会替代你的游戏内验收。
+
+### 德丽莎
+
+模型编辑：神帝宇；版权：miHoYo。
+
+| 全身正面 | 全身侧面 | 全身背面 |
+|---|---|---|
+| ![德丽莎 · 全身正面](../docs/images/runtime/theresa-front.png) | ![德丽莎 · 全身侧面](../docs/images/runtime/theresa-side.png) | ![德丽莎 · 全身背面](../docs/images/runtime/theresa-back.png) |
+
+| 面部特写 | 原生闭眼 | 原生张嘴 |
+|---|---|---|
+| ![德丽莎 · 面部特写](../docs/images/runtime/theresa-face.png) | ![德丽莎 · 原生闭眼](../docs/images/runtime/theresa-blink.png) | ![德丽莎 · 原生张嘴](../docs/images/runtime/theresa-mouth.png) |
+
+### 女魔王
+
+模型：星塔旅人/魔王酱酱酱_；版权：悠星网络。
+
+| 全身正面 | 全身侧面 | 全身背面 |
+|---|---|---|
+| ![女魔王 · 全身正面](../docs/images/runtime/demon-lord-front.png) | ![女魔王 · 全身侧面](../docs/images/runtime/demon-lord-side.png) | ![女魔王 · 全身背面](../docs/images/runtime/demon-lord-back.png) |
+
+| 面部特写 | 原生闭眼 | 原生张嘴 |
+|---|---|---|
+| ![女魔王 · 面部特写](../docs/images/runtime/demon-lord-face.png) | ![女魔王 · 原生闭眼](../docs/images/runtime/demon-lord-blink.png) | ![女魔王 · 原生张嘴](../docs/images/runtime/demon-lord-mouth.png) |
+
+### 利维坦
+
+模型编辑：神帝宇；版权：深空之眼。
+
+| 全身正面 | 全身侧面 | 全身背面 |
+|---|---|---|
+| ![利维坦 · 全身正面](../docs/images/runtime/leviathan-front.png) | ![利维坦 · 全身侧面](../docs/images/runtime/leviathan-side.png) | ![利维坦 · 全身背面](../docs/images/runtime/leviathan-back.png) |
+
+| 面部特写 | 原生闭眼 | 原生张嘴 |
+|---|---|---|
+| ![利维坦 · 面部特写](../docs/images/runtime/leviathan-face.png) | ![利维坦 · 原生闭眼](../docs/images/runtime/leviathan-blink.png) | ![利维坦 · 原生张嘴](../docs/images/runtime/leviathan-mouth.png) |
+
+原始截图文件名、尺寸及 SHA256 记录在[截图清单](../docs/images/runtime/manifest.json)。这些 PNG 是普通截图，不附带人物卡数据。
 
 ## 模型来源与使用规约
 

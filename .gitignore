@@ -12,6 +12,7 @@ output/
 *.dll
 *.exe
 *.png
+!docs/images/runtime/*.png
 *.jpg
 *.dds
 *.zip

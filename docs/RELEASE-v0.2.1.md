@@ -10,6 +10,8 @@ Blender 4.5.0 的 PMX → 原版 Koikatsu 转换插件，输出原生头型、�
 - `pmx2KK-0.2.1-examples-and-docs.zip`：完整中文教程、三个示例配置与辅助脚本，无模型资源。
 - `SHA256SUMS.txt`：上述两个文件的 SHA256。
 
+文档补充（2026-10-30）：新增 `pmx2KK-0.2.1-examples-and-docs-illustrated.zip` 与 `SHA256SUMS-illustrated.txt`，收录三个示例的 18 张 KK Studio 实际验收截图，并在 README 末尾加入作者的话。可直接查看[最新图文复现](https://github.com/ZhiyeLi/pmx2kk/blob/main/examples/README.md)与[README](https://github.com/ZhiyeLi/pmx2kk/blob/main/README.md)。本次仅补充文档，原插件包和 v0.2.1 标签保持原样。
+
 安装及复现请从 [README](https://github.com/ZhiyeLi/pmx2kk/blob/v0.2.1/README.md) 开始。需要自备 Windows、原版 KK、mmd_tools、SB3Utility、正确 Studio 材质模板；完整彩色瞳孔卡需要女性基础卡与 KK OverlayMods。不支持 Sunshine。衣服目前是整套上衣，长发/裙摆物理需要人工适配，面部是近似拟合。
 
 自主源码、文档与配置仅限非商业使用，见仓库 LICENSE；msgpack 按 Apache-2.0。三个模型均未另获再分发授权，因此不包含 PMX、贴图、人物卡或 zipmod。
