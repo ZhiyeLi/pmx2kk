@@ -1,0 +1,165 @@
+{
+  "schema": "pmx2kk-example-1",
+  "addon_version": "0.2.1",
+  "name": "利维坦 v0.2.1",
+  "source": {
+    "filename": "利维坦.pmx",
+    "sha256": "2b73712c396fd21abdeab78f5e8fa781cb5acfdb6bb4718251aee4fce6f31048",
+    "url": "https://www.aplaybox.com/u/359396473/model",
+    "link_type": "author-profile",
+    "editor": "神帝宇",
+    "copyright": "深空之眼"
+  },
+  "materials": [
+    {
+      "id": "0",
+      "name": "表情",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "1",
+      "name": "头发",
+      "role": "HAIR"
+    },
+    {
+      "id": "2",
+      "name": "衣服",
+      "role": "BODY"
+    },
+    {
+      "id": "3",
+      "name": "腿环",
+      "role": "BODY"
+    },
+    {
+      "id": "4",
+      "name": "鞋子",
+      "role": "BODY"
+    },
+    {
+      "id": "5",
+      "name": "鞋饰",
+      "role": "BODY"
+    },
+    {
+      "id": "6",
+      "name": "衣服1",
+      "role": "BODY"
+    },
+    {
+      "id": "7",
+      "name": "臂甲",
+      "role": "BODY"
+    },
+    {
+      "id": "8",
+      "name": "兜帽",
+      "role": "SPLIT_HOOD"
+    },
+    {
+      "id": "9",
+      "name": "兜帽0",
+      "role": "HEAD_ACCESSORY"
+    },
+    {
+      "id": "10",
+      "name": "兜帽1",
+      "role": "BODY"
+    },
+    {
+      "id": "11",
+      "name": "皮肤",
+      "role": "BODY"
+    },
+    {
+      "id": "12",
+      "name": "袜子",
+      "role": "BODY"
+    },
+    {
+      "id": "13",
+      "name": "背饰",
+      "role": "BODY"
+    },
+    {
+      "id": "14",
+      "name": "背饰发光",
+      "role": "BODY"
+    },
+    {
+      "id": "15",
+      "name": "肩饰",
+      "role": "BODY"
+    },
+    {
+      "id": "16",
+      "name": "衣饰",
+      "role": "BODY"
+    },
+    {
+      "id": "17",
+      "name": "衣饰1",
+      "role": "BODY"
+    },
+    {
+      "id": "18",
+      "name": "头饰",
+      "role": "HEAD_ACCESSORY"
+    },
+    {
+      "id": "19",
+      "name": "脸",
+      "role": "FACE"
+    },
+    {
+      "id": "20",
+      "name": "眼白",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "21",
+      "name": "眼睛",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "22",
+      "name": "眉毛",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "23",
+      "name": "牙齿",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "24",
+      "name": "舌头",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "25",
+      "name": "口腔",
+      "role": "FACE_DETAIL"
+    }
+  ],
+  "settings": {
+    "import_scale": 0.08,
+    "body_width": 1.0,
+    "face_strength": 1.0,
+    "hair_scale": 1.0,
+    "hair_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "hood_cut": 1.0,
+    "hair_physics": "FRINGE",
+    "damping": 0.55,
+    "stiffness": 0.85,
+    "elasticity": 0.35,
+    "inertia": 0.8,
+    "outline": 0.0,
+    "simplify_large_meshes": false
+  },
+  "bone_overrides": {}
+}

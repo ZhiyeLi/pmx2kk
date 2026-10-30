@@ -1,0 +1,147 @@
+{
+  "version": "0.2.1",
+  "scope": "Local pre-publication KK runtime checks; numeric evidence only",
+  "samples": [
+    {
+      "name": "德丽莎",
+      "key": "p78aec52e5224n21",
+      "functional_runtime": "PASS p78aec52e5224n21 blink=0.02083502 mouth=0.009437875 slider=0.001612239 walk=1.12171 outfit_switch=True save_reload=True colored_irises=True",
+      "regression": {
+        "key": "p78aec52e5224n21",
+        "native_uv_identical": true,
+        "seam_displacement_error": 0.0,
+        "expression_max_error": 7.450580596923828e-09,
+        "expression_count": 81,
+        "unchanged_meshes": [
+          "cf_O_canine_0",
+          "cf_O_eyeline_0",
+          "cf_O_mayuge_0",
+          "cf_O_noseline_0",
+          "cf_O_tooth_0",
+          "cf_Ohitomi_L_0",
+          "cf_Ohitomi_R_0",
+          "o_tang_0",
+          "pmx2kk_hair",
+          "pmx2kk_outfit"
+        ],
+        "accepted_iris_identical": {
+          "L": true,
+          "R": true
+        },
+        "normalization_identical": true,
+        "body_fit_identical": true,
+        "max_face_displacement": 0.005267171105139445
+      },
+      "bake": {
+        "method": "front-surface source UV sampling + harmonic hole extension",
+        "unity_skin_format": "ARGB32 uncompressed mip chain",
+        "source_pixels": 90764,
+        "retained_skin_pixels": 90764,
+        "skin_reference": [
+          0.9803922176361084,
+          0.8561993837356567,
+          0.8475455045700073
+        ],
+        "fixed_ellipse_patches": false
+      },
+      "skin_dds_pixel_max_error": 1,
+      "skin_runtime_pixel_max_error": 1,
+      "previous_dxt5_max_error": 10,
+      "seconds": 37.875
+    },
+    {
+      "name": "女魔王",
+      "key": "p7df4c5d7a70bn21",
+      "functional_runtime": "PASS p7df4c5d7a70bn21 blink=0.02083509 mouth=0.009437915 slider=0.001618527 walk=1.120582 outfit_switch=True save_reload=True colored_irises=True",
+      "regression": {
+        "key": "p7df4c5d7a70bn21",
+        "native_uv_identical": true,
+        "seam_displacement_error": 0.0,
+        "expression_max_error": 7.450580596923828e-09,
+        "expression_count": 81,
+        "unchanged_meshes": [
+          "cf_O_canine_0",
+          "cf_O_eyeline_0",
+          "cf_O_mayuge_0",
+          "cf_O_noseline_0",
+          "cf_O_tooth_0",
+          "cf_Ohitomi_L_0",
+          "cf_Ohitomi_R_0",
+          "o_tang_0",
+          "pmx2kk_hair",
+          "pmx2kk_outfit"
+        ],
+        "accepted_iris_identical": {
+          "L": true,
+          "R": true
+        },
+        "normalization_identical": true,
+        "body_fit_identical": true,
+        "max_face_displacement": 0.008856398193136352
+      },
+      "bake": {
+        "method": "front-surface source UV sampling + harmonic hole extension",
+        "unity_skin_format": "ARGB32 uncompressed mip chain",
+        "source_pixels": 111680,
+        "retained_skin_pixels": 111168,
+        "skin_reference": [
+          0.9921569228172302,
+          0.9490196704864502,
+          0.9254902601242065
+        ],
+        "fixed_ellipse_patches": false
+      },
+      "skin_dds_pixel_max_error": 1,
+      "skin_runtime_pixel_max_error": 1,
+      "previous_dxt5_max_error": 7,
+      "seconds": 65.375
+    },
+    {
+      "name": "利维坦",
+      "key": "p2b73712c396fn21",
+      "functional_runtime": "PASS p2b73712c396fn21 blink=0.02083518 mouth=0.009437648 slider=0.001597784 walk=1.096297 outfit_switch=True save_reload=True colored_irises=True",
+      "regression": {
+        "key": "p2b73712c396fn21",
+        "native_uv_identical": true,
+        "seam_displacement_error": 0.0,
+        "expression_max_error": 7.450580596923828e-09,
+        "expression_count": 81,
+        "unchanged_meshes": [
+          "cf_O_canine_0",
+          "cf_O_eyeline_0",
+          "cf_O_mayuge_0",
+          "cf_O_noseline_0",
+          "cf_O_tooth_0",
+          "cf_Ohitomi_L_0",
+          "cf_Ohitomi_R_0",
+          "o_tang_0",
+          "pmx2kk_hair",
+          "pmx2kk_outfit"
+        ],
+        "accepted_iris_identical": {
+          "L": true,
+          "R": true
+        },
+        "normalization_identical": true,
+        "body_fit_identical": true,
+        "max_face_displacement": 0.006349768818638266
+      },
+      "bake": {
+        "method": "front-surface source UV sampling + harmonic hole extension",
+        "unity_skin_format": "ARGB32 uncompressed mip chain",
+        "source_pixels": 104544,
+        "retained_skin_pixels": 104184,
+        "skin_reference": [
+          1.0,
+          0.8549020290374756,
+          0.8431373238563538
+        ],
+        "fixed_ellipse_patches": false
+      },
+      "skin_dds_pixel_max_error": 1,
+      "skin_runtime_pixel_max_error": 1,
+      "previous_dxt5_max_error": 7,
+      "seconds": 51.59399999992456
+    }
+  ]
+}

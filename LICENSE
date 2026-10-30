@@ -1,0 +1,45 @@
+pmx2KK Noncommercial Source License 1.0
+
+Copyright (c) 2026 ZhiyeLi
+
+1. Scope
+This license covers only original pmx2KK code, documentation and example
+configuration files authored for this repository. Separately identified
+third-party components retain their own licenses. It grants no rights to
+Blender, Koikatsu, game resources, character models, textures, cards, or mods.
+
+2. Noncommercial permission
+Subject to these conditions, permission is granted, without charge, to use,
+copy, study, modify and redistribute the covered work for noncommercial
+purposes, including personal learning and noncommercial research.
+Noncommercial means not primarily intended for or directed toward commercial
+advantage or monetary compensation.
+
+3. Conditions
+Retain this license and copyright notices in all copies and distributions.
+Identify substantial modifications and do not imply endorsement by the author.
+Distribute covered original code and modifications under these same terms;
+you may not remove the noncommercial restriction from the covered work.
+Commercial use requires separate written permission from the copyright holder.
+Without that permission, selling this software, charging for conversion
+services using it, or incorporating it into commercial products is prohibited.
+
+4. Third-party material and outputs
+Third-party licenses are not replaced or restricted by this license.
+Generated outputs remain subject to the rights and rules of their source
+material. This license does not grant permission to redistribute a model,
+game asset, converted card or zipmod, nor rights to trademarks or likenesses.
+
+5. Termination
+Permissions under this license terminate upon violation of its conditions.
+
+6. No warranty
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHORS ARE NOT
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE WORK OR
+ITS USE, WHETHER IN CONTRACT, TORT OR OTHERWISE.
+
+This is a source-available noncommercial license, not an OSI-approved
+open-source license. Contact the repository owner for commercial permissions:
+https://github.com/ZhiyeLi/pmx2kk

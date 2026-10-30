@@ -1,0 +1,160 @@
+{
+  "schema": "pmx2kk-example-1",
+  "addon_version": "0.2.1",
+  "name": "主教德丽莎1.0 v0.2.1",
+  "source": {
+    "filename": "主教德丽莎1.0.pmx",
+    "sha256": "78aec52e52243ed5e530f486080a78d5838d6121883730cf0b6fcbab194c0097",
+    "url": "https://www.aplaybox.com/details/model/vanHVdtz5qq6",
+    "link_type": "model-page",
+    "editor": "神帝宇",
+    "copyright": "miHoYo"
+  },
+  "materials": [
+    {
+      "id": "0",
+      "name": "表情",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "1",
+      "name": "头发",
+      "role": "HAIR"
+    },
+    {
+      "id": "2",
+      "name": "衣服",
+      "role": "BODY"
+    },
+    {
+      "id": "3",
+      "name": "衣服饰",
+      "role": "BODY"
+    },
+    {
+      "id": "4",
+      "name": "鞋子",
+      "role": "BODY"
+    },
+    {
+      "id": "5",
+      "name": "鞋子饰",
+      "role": "BODY"
+    },
+    {
+      "id": "6",
+      "name": "腿环",
+      "role": "BODY"
+    },
+    {
+      "id": "7",
+      "name": "袖子",
+      "role": "BODY"
+    },
+    {
+      "id": "8",
+      "name": "袖子饰",
+      "role": "BODY"
+    },
+    {
+      "id": "9",
+      "name": "丝袜",
+      "role": "BODY"
+    },
+    {
+      "id": "10",
+      "name": "脖子",
+      "role": "BODY"
+    },
+    {
+      "id": "11",
+      "name": "发带",
+      "role": "HEAD_ACCESSORY"
+    },
+    {
+      "id": "12",
+      "name": "耳环",
+      "role": "HEAD_ACCESSORY"
+    },
+    {
+      "id": "13",
+      "name": "头饰",
+      "role": "HEAD_ACCESSORY"
+    },
+    {
+      "id": "14",
+      "name": "头带",
+      "role": "HEAD_ACCESSORY"
+    },
+    {
+      "id": "15",
+      "name": "头带饰",
+      "role": "HEAD_ACCESSORY"
+    },
+    {
+      "id": "16",
+      "name": "脸",
+      "role": "FACE"
+    },
+    {
+      "id": "17",
+      "name": "眉毛",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "18",
+      "name": "牙齿",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "19",
+      "name": "舌头",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "20",
+      "name": "口腔",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "21",
+      "name": "眼白",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "22",
+      "name": "眼睛",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "23",
+      "name": "眼睛1",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "24",
+      "name": "眼睛2",
+      "role": "FACE_DETAIL"
+    }
+  ],
+  "settings": {
+    "import_scale": 0.08,
+    "body_width": 1.0,
+    "face_strength": 1.0,
+    "hair_scale": 1.0,
+    "hair_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "hood_cut": 1.0,
+    "hair_physics": "STATIC",
+    "damping": 0.55,
+    "stiffness": 0.85,
+    "elasticity": 0.35,
+    "inertia": 0.8,
+    "outline": 0.0,
+    "simplify_large_meshes": false
+  },
+  "bone_overrides": {}
+}

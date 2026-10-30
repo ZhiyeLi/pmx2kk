@@ -1,0 +1,140 @@
+{
+  "schema": "pmx2kk-example-1",
+  "addon_version": "0.2.1",
+  "name": "女魔王_游戏比例版 v0.2.1",
+  "source": {
+    "filename": "女魔王_游戏比例版.pmx",
+    "sha256": "7df4c5d7a70b13bff4cbc5be8d9463983db1b43624cbb3a7b8a8a76300abb791",
+    "url": "https://www.bilibili.com/video/BV1TuQmBVEon/",
+    "link_type": "author-announcement",
+    "editor": "魔王酱酱酱_",
+    "copyright": "悠星网络 / 星塔旅人"
+  },
+  "materials": [
+    {
+      "id": "0",
+      "name": "女魔王_ex",
+      "role": "HEAD_ACCESSORY"
+    },
+    {
+      "id": "1",
+      "name": "女魔王_脸",
+      "role": "FACE"
+    },
+    {
+      "id": "2",
+      "name": "女魔王_眉毛",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "3",
+      "name": "女魔王_睫毛",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "4",
+      "name": "女魔王_眼白",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "5",
+      "name": "女魔王_眼睛",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "6",
+      "name": "女魔王_眼高光",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "7",
+      "name": "女魔王_口腔",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "8",
+      "name": "女魔王_舌头",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "9",
+      "name": "女魔王_牙齿",
+      "role": "FACE_DETAIL"
+    },
+    {
+      "id": "10",
+      "name": "女魔王_前发",
+      "role": "HAIR"
+    },
+    {
+      "id": "11",
+      "name": "女魔王_侧发",
+      "role": "HAIR"
+    },
+    {
+      "id": "12",
+      "name": "女魔王_后发",
+      "role": "HAIR"
+    },
+    {
+      "id": "13",
+      "name": "女魔王_脖子",
+      "role": "BODY"
+    },
+    {
+      "id": "14",
+      "name": "女魔王_身体",
+      "role": "BODY"
+    },
+    {
+      "id": "15",
+      "name": "女魔王_衣服",
+      "role": "BODY"
+    },
+    {
+      "id": "16",
+      "name": "女魔王_金属",
+      "role": "BODY"
+    },
+    {
+      "id": "17",
+      "name": "女魔王_金属2",
+      "role": "BODY"
+    },
+    {
+      "id": "18",
+      "name": "女魔王_袜子",
+      "role": "BODY"
+    },
+    {
+      "id": "19",
+      "name": "女魔王_道具",
+      "role": "BODY"
+    },
+    {
+      "id": "20",
+      "name": "女魔王_透明",
+      "role": "BODY"
+    }
+  ],
+  "settings": {
+    "import_scale": 0.08,
+    "body_width": 1.0,
+    "face_strength": 1.0,
+    "hair_scale": 1.0,
+    "hair_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "hood_cut": 1.0,
+    "hair_physics": "STATIC",
+    "damping": 0.55,
+    "stiffness": 0.85,
+    "elasticity": 0.35,
+    "inertia": 0.8,
+    "outline": 0.0,
+    "simplify_large_meshes": false
+  },
+  "bone_overrides": {}
+}
